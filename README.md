@@ -1,4 +1,19 @@
-<h1 align="center">Hi 👋, I'm kiran poudel(e99sy)</h1>
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hello World!, I am
+                <b><a target="_blank" href="https://mukesh.name.np/">Mukesh Chaudhary</a></b>
+        </samp>
+</h3>
+<br>
+<p align="center">
+        <!-- Organisation  -->
+        <samp>
+                「 From Kathmandu, Nepal 」
+                <br>
+                「 Student, Information Technology & Engineering @<b> Pokhara University</b> 」
+                <br>
+                <br>
+        </samp>
 <h3 align="center">A passionate about networking from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e99sy&label=Profile%20views&color=0e75b6&style=flat" alt="e99sy" /> </p>
