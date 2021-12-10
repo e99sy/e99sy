@@ -30,3 +30,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=e99sy&show_icons=true&locale=en" alt="e99sy" /></p>
 
+
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/e99sy/count.svg" alt ="Loading">
+1 comment on commit 9e69a82
