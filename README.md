@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **Switching and Routing**
 
-- 👨‍💻 All of my projects are available at [kiran.name.np](kiran.name.np)
+- 👨‍💻 My portfolio website is : [kiran.name.np](kiran.name.np)
 
 - 📫 How to reach me **kiranpou950@gmail.com**
 
